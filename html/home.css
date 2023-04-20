@@ -1,0 +1,35 @@
+.col-md{
+    border-style: solid;
+    border-radius: 10%;
+    border-color: rgba(0, 0,0,0);
+    background-color: rgba(226, 154, 72, 0.192);
+    opacity: 60%;
+    height: auto;
+    transition-duration: 900ms;
+    margin: 10px;
+}
+
+.row{
+    padding: 0px 90px;
+}
+
+.col-md:hover{
+    opacity: 1;
+    transition-duration: 900ms;
+}
+
+img{
+    border-radius: 30%;
+    size: 1%;
+    margin-top: 10px;
+    width: 100%;
+    height: 338px;
+    box-sizing: inherit;
+    object-fit: cover;
+    object-position: 50% 10%;
+}
+
+p{
+    padding: 0px 20px;
+    align-items: center;
+}

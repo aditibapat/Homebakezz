@@ -1,0 +1,46 @@
+#form{
+    background-color:   #ead9f5;
+    border-radius: 20px;
+}
+
+.carousel-inner{
+    width: 60%;
+    border-radius: 10%;
+    height: 100%;
+    right: -20%;
+    object-fit: scale-down;
+}
+
+#slide{
+    width: 65%;
+    align-items: center;
+    
+}
+#van{
+    background-color: rgba(128, 128, 128, 0.772);
+    align-items: center;
+    box-sizing: content-box;
+}
+#arrow{
+    background-color: #736d73d1;
+    border-color: rgba(0, 0, 0, 0);
+    box-shadow: 0px 0px 20px  #f7ec5555;}
+    
+#cake{
+    padding: 40px;
+}
+#abt{
+    background-color:  #ffc09f;
+    border-radius: 20px;
+}
+#us{
+    background-color:  #adf7b6;
+    border-radius: 20px;
+}
+#list{
+    background-color:  #98e4f7 ;
+    border-radius: 20px;
+}
+#brown{
+    color: whitesmoke;
+}
